@@ -3,7 +3,7 @@
 
     <groupId>com.github.born2snipe</groupId>
     <artifactId>project-setup-cli</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>project-setup-cli</name>
